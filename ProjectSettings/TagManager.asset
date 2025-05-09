@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Enemy
+  - Stair
+  - PathFindTarget
+  - StairTrigger
+  - Object
+  - Obstacle
+  - EmptyPathFindTarget
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Bullet
+  - Enemy
+  - PathFindingTarget
+  - Stair
+  - Trigger
+  - Object
+  - Obstacle
+  - IgnoreEnemy
+  - Lighthider
+  - Grenade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\u573A\u666F"
+    uniqueID: 3236949749
+    locked: 0
+  - name: "\u7279\u65481"
+    uniqueID: 3596118517
+    locked: 0
+  - name: "\u7279\u65482"
+    uniqueID: 2508061667
+    locked: 0
+  - name: UI
+    uniqueID: 1898078685
+    locked: 0
